@@ -1,0 +1,23 @@
+{
+  "name": "randompersonjsongenerator",
+  "version": "1.0.0",
+  "description": "RandomPersonJSONGenerator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paxlord/RandomPersonJSONGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paxlord/RandomPersonJSONGenerator/issues"
+  },
+  "homepage": "https://github.com/Paxlord/RandomPersonJSONGenerator#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
